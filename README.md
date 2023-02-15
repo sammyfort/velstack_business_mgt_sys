@@ -24,11 +24,13 @@ On the top navigation bar, you can open or close the business using the toggle s
 ## Add Business products
 In order to start selling, you need to add products to the business/store. You can do so by navigating to `>Products>Add Product` <br>
 **Note:** If you don't add products you cannot create a sale/receipt because a receipt has to be an order from the store.
+
 ![Manage products](https://business.velstack.com/assets/images/docs-guide/products.png)
 
 ## Add Workers/Employees
 If you are a manager, you can add your workers to help you manage the business but you control what they can do on the business. You can do so by navigating to `>Wokrers>Add Worker`. Add the worker and assign roles to them. <br>
 **Note:** Workers can change their own password.
+
 ![Add workers](https://business.velstack.com/assets/images/docs-guide/workers.png)
 
 ## Create Sales
@@ -38,21 +40,25 @@ When creating sales/receipts, ignore the `Select Status` field because this fiel
 * The field will be  `Paid` if the order total billing is equal to the paying amount.
 * The field will be  `Installment`  if paying amount is less than the total billing.
 * The field will be `Unpaid` if and only if the paying amount is 0.
+* 
 ![create receipt](https://business.velstack.com/assets/images/docs-guide/create-receipt.png)
 
 The `customer name` field is required but the `phone number` field is only required when the business owner has made a setting to send sms alert to customers... The same as the `email field`.
 The `Billing` details is not always required.
 
 Start typing the product name and it will automatically populate like products from store indicating product whether the product is in `stock` or `out of stock` and `quantity left` for stock. When the product is selected, the `product rate` field will be filled with the selected product `selling price` and the  `product amount` will be calculated based on the `quantity` in question multiply by the `product rate`.
+
 ![select product](https://business.velstack.com/assets/images/docs-guide/select-product.png)
 
 ## Editing Sales
 You can edit receipts like `Installment` and `Unpaid` receipts to collect payment continuously till payment is finally done.
+
 ![edit receipt](https://business.velstack.com/assets/images/docs-guide/edit-receipt.png)
 
 ## Export Data
 We are not only limiting you to using our system, we allow you to export all your data including `products` and `sales` from our system to either `Excel`, `CSV`, or `PDF`.
 Select the row export you want to export or select all rows and choose your favorite format to export these data to. Done!
+
 ![export data](https://business.velstack.com/assets/images/docs-guide/export.png)
 
 ## Subscription
