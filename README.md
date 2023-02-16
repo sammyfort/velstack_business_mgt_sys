@@ -3,7 +3,7 @@
 `Daily sales` calculations.
 * `Inventory` Track products `In stock`,  `Out of stock`, and `expired` products.
 * `Invoicing` Generate `receipts` and `invoices` for customers and track `owing customers`
-* `Notifications` You can send an `email` or `sms` notification to customers after ordering. SMS sender id can be customized with the business name
+* `Notifications` You can send an `email` or `sms` notification to business owner/customers after every order. SMS sender id can be customized with the business name
 * `Workers` Add workers/employees to your business to help you manage them. You can control what they do.
 * `Export` You can export all your sales and product data to either `Excel`, `CSV`  or `PDF`.
 
